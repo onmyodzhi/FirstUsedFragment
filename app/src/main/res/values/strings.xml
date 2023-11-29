@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FragmentFirstApp</string>
+    <string name="chats">Chats</string>
+    <string name="red">RED</string>
+    <string name="red_layout">Status Fragment</string>
+    <string name="green">GREEN</string>
+    <string name="green_layout">Chats Fragment</string>
+    <string name="blue">BLUE</string>
+    <string name="blue_layout">Calls Fragment</string>
+    <string name="status">Status</string>
+    <string name="calls">Calls</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
